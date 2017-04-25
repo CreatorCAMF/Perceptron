@@ -1,0 +1,8 @@
+c:\users\tobyo_000\documents\visual studio 2015\Projects\PerceptronMulticapa\bin\Debug\PerceptronMulticapa.exe.config
+c:\users\tobyo_000\documents\visual studio 2015\Projects\PerceptronMulticapa\bin\Debug\PerceptronMulticapa.exe
+c:\users\tobyo_000\documents\visual studio 2015\Projects\PerceptronMulticapa\bin\Debug\PerceptronMulticapa.pdb
+c:\users\tobyo_000\documents\visual studio 2015\Projects\PerceptronMulticapa\bin\Debug\NerveCell.dll
+c:\users\tobyo_000\documents\visual studio 2015\Projects\PerceptronMulticapa\bin\Debug\NerveCell.pdb
+c:\users\tobyo_000\documents\visual studio 2015\Projects\PerceptronMulticapa\obj\Debug\PerceptronMulticapa.csprojResolveAssemblyReference.cache
+c:\users\tobyo_000\documents\visual studio 2015\Projects\PerceptronMulticapa\obj\Debug\PerceptronMulticapa.exe
+c:\users\tobyo_000\documents\visual studio 2015\Projects\PerceptronMulticapa\obj\Debug\PerceptronMulticapa.pdb

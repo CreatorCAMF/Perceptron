@@ -1,0 +1,8 @@
+c:\users\tobyo_000\documents\visual studio 2015\Projects\PerceptronSimple\bin\Debug\PerceptronSimple.exe.config
+c:\users\tobyo_000\documents\visual studio 2015\Projects\PerceptronSimple\bin\Debug\PerceptronSimple.exe
+c:\users\tobyo_000\documents\visual studio 2015\Projects\PerceptronSimple\bin\Debug\PerceptronSimple.pdb
+c:\users\tobyo_000\documents\visual studio 2015\Projects\PerceptronSimple\obj\Debug\PerceptronSimple.csprojResolveAssemblyReference.cache
+c:\users\tobyo_000\documents\visual studio 2015\Projects\PerceptronSimple\obj\Debug\PerceptronSimple.exe
+c:\users\tobyo_000\documents\visual studio 2015\Projects\PerceptronSimple\obj\Debug\PerceptronSimple.pdb
+c:\users\tobyo_000\documents\visual studio 2015\Projects\PerceptronSimple\bin\Debug\NerveCell.dll
+c:\users\tobyo_000\documents\visual studio 2015\Projects\PerceptronSimple\bin\Debug\NerveCell.pdb
